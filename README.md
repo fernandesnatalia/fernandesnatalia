@@ -4,9 +4,7 @@
  <br><br>
  
  <p align="left"> :computer: Atuo com desenvolvimento Android e BackEnd </p>
- <p align="left"> :books: Estudante de Tecnologia da Informação </p>
- <p align="left"> :lock: Interessada em segurança e acessibilidade (em breve disponível aqui) </p>
- <p align="left"> :beach_umbrella: Me aventurando no litoral sul de SP/Brasil </p>
+ <p align="left"> :books: Formada em Tecnologia da Informação </p>
  
  <br>
  
